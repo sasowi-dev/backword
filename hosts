@@ -1,0 +1,32 @@
+# Title: 언링크스위치 필터
+#
+# 깃허브를 통한 크라우드소싱을 받습니다.
+#
+#
+# ===============================================================
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+# 필터 
+
+0.0.0.0 www.familymanagement-pa.googleapis.com familymanagement-pa.googleapis.com
+0.0.0.0 www.geomobileservices-pa.googleapis.com geomobileservices-pa.googleapis.com
+0.0.0.0 www.kidsmanagement-pa.googleapis.com kidsmanagement-pa.googleapis.com
+0.0.0.0 www.userlocation.googleapis.com userlocation.googleapis.com
+0.0.0.0 www.safebrowsing.googleapis.com safebrowsing.googleapis.com
+0.0.0.0 www.family.mobilefence.com family.mobilefence.com
+0.0.0.0 www.mobilefence.com mobilefence.com
+0.0.0.0 www.xkeeper.com xkeeper.com
+0.0.0.0 www.checkout.xkeeper.com checkout.xkeeper.com
