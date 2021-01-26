@@ -26,7 +26,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.kidsmanagement-pa.googleapis.com kidsmanagement-pa.googleapis.com
 0.0.0.0 www.userlocation.googleapis.com userlocation.googleapis.com
 0.0.0.0 www.safebrowsing.googleapis.com safebrowsing.googleapis.com
-0.0.0.0 www.family.mobilefence.com family.mobilefence.com
-0.0.0.0 www.mobilefence.com mobilefence.com
+182.212.57.203 www.family.mobilefence.com family.mobilefence.com
+182.212.57.203 www.mobilefence.com mobilefence.com
 0.0.0.0 www.xkeeper.com xkeeper.com
 0.0.0.0 www.checkout.xkeeper.com checkout.xkeeper.com
