@@ -31,11 +31,4 @@ ff02::3 ip6-allhosts
 182.212.57.203 www.mobilefence.com mobilefence.com
 0.0.0.0 www.xkeeper.com xkeeper.com
 0.0.0.0 www.checkout.xkeeper.com checkout.xkeeper.com
-0.0.0.0 config.samsungads.com www.config.samsungads.com
-0.0.0.0 gpm.samsungqbe.com www.gpm.samsungqbe.com
-0.0.0.0 log-config.samsungacr.com www.log-config.samsungacr.com
-0.0.0.0 samsungacr.com www.samsungacr.com
-0.0.0.0 samsungads.com www.samsungads.com
-0.0.0.0 samsungcloudsolution.com www.samsungcloudsolution.com
-0.0.0.0 samsungcloudsolution.net www.samsungcloudsolution.net
-0.0.0.0 samsungotn.net www.samsungotn.net
+
