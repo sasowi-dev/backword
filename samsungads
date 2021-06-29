@@ -28,3 +28,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 samsungcloudsolution.com www.samsungcloudsolution.com
 0.0.0.0 samsungcloudsolution.net www.samsungcloudsolution.net
 0.0.0.0 samsungotn.net www.samsungotn.net
+
+# 삼성 웨더
+0.0.0.0 dr9xthplobr1x.cloudfront.net www.dr9xthplobr1x.cloudfront.net
