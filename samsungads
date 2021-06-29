@@ -1,0 +1,30 @@
+# Title: 삼성 광고 필터
+#
+# 깃허브를 통한 크라우드소싱을 받습니다.
+#
+#
+# ===============================================================
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+# 필터 
+0.0.0.0 config.samsungads.com www.config.samsungads.com
+0.0.0.0 gpm.samsungqbe.com www.gpm.samsungqbe.com
+0.0.0.0 log-config.samsungacr.com www.log-config.samsungacr.com
+0.0.0.0 samsungacr.com www.samsungacr.com
+0.0.0.0 samsungads.com www.samsungads.com
+0.0.0.0 samsungcloudsolution.com www.samsungcloudsolution.com
+0.0.0.0 samsungcloudsolution.net www.samsungcloudsolution.net
+0.0.0.0 samsungotn.net www.samsungotn.net
