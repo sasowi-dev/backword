@@ -22,6 +22,7 @@ ff02::3 ip6-allhosts
 # 필터 
 
 0.0.0.0 www.familymanagement-pa.googleapis.com familymanagement-pa.googleapis.com
+0.0.0.0 families.google.com www.families.google.com
 0.0.0.0 www.geomobileservices-pa.googleapis.com geomobileservices-pa.googleapis.com
 0.0.0.0 www.kidsmanagement-pa.googleapis.com kidsmanagement-pa.googleapis.com
 0.0.0.0 www.userlocation.googleapis.com userlocation.googleapis.com
